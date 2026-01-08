@@ -1,16 +1,30 @@
 ## Hi there 👋
 
-<!--
-**Tikaimo/Tikaimo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a 3D Generalist who mostly does 2D/3D concept art and builds tools to make my life easier, then share them when they might help others. 
+Most of my repos are personal tools, learning projects, or experiments that grew into something useful.
 
-Here are some ideas to get you started:
+## What I Do
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I create 2d/3d art, animations, vfx and develop tools to make creative work more efficient.
+
+**3D & Environments**  
+From concept to final render, I work across the full 3D pipeline—modeling, texturing, environments, and visualization.
+
+## Tools I Use
+
+**Primary Stack:**
+- Blender (modeling, addons, scripting)
+- Gaea (terrain generation)
+- Unreal Engine 5 (real-time environments)
+- Houdini (procedural workflows)
+- Vs code (addons/plugins)
+- Embergen , Liquidgen
+- Substance painter
+- Affinity/ Clip studio paint
+  
+**Also Working With:**  
+Various other software depending on the project needs.
+
+---
+
+*Wow, you read to the end! :)*
