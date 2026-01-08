@@ -10,21 +10,6 @@ I create 2d/3d art, animations, vfx and develop tools to make creative work more
 **3D & Environments**  
 From concept to final render, I work across the full 3D pipeline—modeling, texturing, environments, and visualization.
 
-## Tools I Use
-
-**Primary Stack:**
-- Blender (modeling, addons, scripting)
-- Gaea (terrain generation)
-- Unreal Engine 5 (real-time environments)
-- Houdini (procedural workflows)
-- Vs code (addons/plugins)
-- Embergen , Liquidgen
-- Substance painter
-- Affinity/ Clip studio paint
-  
-**Also Working With:**  
-Various other software depending on the project needs.
-
 ---
 
 *Wow, you read to the end! :)*
