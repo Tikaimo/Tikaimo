@@ -6,7 +6,7 @@ Most of my repos are personal tools, learning projects, or experiments that grew
 
 ## What I Do
 
-I create 2d/3d concept art, animations, vfx and develop tools to make creative work more efficient.
+I create 2d/3d concept art, animations, vfx and develop tools to make my creative work more efficient and less repetative.
 
 **3D & Environments**  
 From concept to final render, I work across the full 3D pipeline—modeling, texturing, environments, and visualization.
